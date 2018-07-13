@@ -1,1 +1,0 @@
-<tf.Variable 'doc2vec/sent_attention/u_context:0' shape=(100,) dtype=float32_ref>
